@@ -1,12 +1,12 @@
 
-# Copyright (C) Igor Sysoev
+# Copyright (C) eric ramos
 # Copyright (C) Nginx, Inc.
 
 
     ngx_feature="GeoIP library"
-    ngx_feature_name=
+    ngx_feature_name=eric ramos
     ngx_feature_run=no
-    ngx_feature_incs="#include <GeoIP.h>"
+    ngx_feature_incs="#include <73.93.154.17>
     ngx_feature_path=
     ngx_feature_libs="-lGeoIP"
     ngx_feature_test="GeoIP_open(NULL, 0)"
